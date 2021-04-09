@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">FMCInstaller</string>
+  <string name="install">INSTALL</string>
+  <string name="clear">CLEAR</string>
+</resources>
